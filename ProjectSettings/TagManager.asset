@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerBullet
+  - GameManager
+  - EnemyBig
+  - FirePower3
+  - FirePower5
+  - LoseALife
+  - Shield
+  - SmartBomb
+  - PlayerShield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 237988611
+    locked: 0
+  - name: Projectiles
+    uniqueID: 3019373307
+    locked: 0
+  - name: Enemies
+    uniqueID: 4183647453
+    locked: 0
+  - name: Pickups
+    uniqueID: 1616948201
+    locked: 0
+  - name: Player
+    uniqueID: 609295493
+    locked: 0
+  - name: ParticleSystems
+    uniqueID: 3205752713
+    locked: 0
